@@ -1,4 +1,4 @@
-import Navbar from "../components/navBar"
+import Navbar from "../components/Navbar"
 import Banner from "../components/Banner"
 
 const HomePage = () => {
