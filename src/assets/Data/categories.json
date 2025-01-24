@@ -1,0 +1,46 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "title": "best e-juice",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      },
+      {
+        "id": 2,
+        "title": "best mod",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      },
+      {
+        "id": 3,
+        "title": "best pan",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      },
+      {
+        "id": 4,
+        "title": "best pod",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      },
+      {
+        "id": 5,
+        "title": "best tank",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      },
+      {
+        "id": 6,
+        "title": "best vaps",
+        "image": "/api/placeholder/200/200",
+        "icon": "/api/placeholder/32/32",
+        "link": "/shop"
+      }
+    ]
+  }
